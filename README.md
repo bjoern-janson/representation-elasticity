@@ -69,6 +69,8 @@ An elastic system follows a different cycle:
               Repeat
 ```
 
+Architect Intelligence is not proposed as a new AI architecture. It is proposed as a hypothesis about the dynamics of adaptive systems that continually improve their representations under external constraints.
+
 ---
 
 ## Representation Elasticity
