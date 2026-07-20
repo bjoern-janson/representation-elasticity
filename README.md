@@ -238,3 +238,12 @@ Open Problems
 4. Does evolution instantiate the same algorithm?
 5. Can this framework reproduce existing results in active learning, MDL, Bayesian model selection, and scientific discovery?
 6. What experimental benchmark would distinguish Architect Intelligence from current foundation models?
+
+---
+
+## Non-Claims
+- This framework does not claim to explain consciousness.
+- It does not propose a specific AI architecture.
+- It does not replace information theory, Bayesian inference, or MDL.
+- It does not claim every adaptive system is intelligent.
+- It proposes a unifying hypothesis about adaptive epistemic dynamics.
