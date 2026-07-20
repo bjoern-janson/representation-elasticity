@@ -224,3 +224,14 @@ Early theoretical framework.
 The primary research question:
 
 **Can artificial systems autonomously discover, compress, and replace their own representations when those representations become inadequate?**
+
+---
+
+## Open Problems
+Open Problems
+1. Can representation evolution be formally separated from intervention evolution?
+2. Is an external constraint system the true compass of intelligence?
+3. Can objectives themselves evolve without collapsing into arbitrary self-reference?
+4. Does evolution instantiate the same algorithm?
+5. Can this framework reproduce existing results in active learning, MDL, Bayesian model selection, and scientific discovery?
+6. What experimental benchmark would distinguish Architect Intelligence from current foundation models?
